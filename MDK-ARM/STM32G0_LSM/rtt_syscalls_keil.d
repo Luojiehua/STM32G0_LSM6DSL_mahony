@@ -1,0 +1,11 @@
+stm32g0_lsm\rtt_syscalls_keil.o: ..\RTT\RTT_Syscalls_KEIL.c
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\string.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\rt_sys.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\rt_misc.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32g0_lsm\rtt_syscalls_keil.o: ..\RTT\SEGGER_RTT.h
+stm32g0_lsm\rtt_syscalls_keil.o: ..\RTT\SEGGER_RTT_Conf.h
+stm32g0_lsm\rtt_syscalls_keil.o: D:\keil\MDK5\ARM\ARMCC\Bin\..\include\stdarg.h
